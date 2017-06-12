@@ -1,2 +1,2 @@
 # shopping-cart-prediction
-Kaggle competiton: Predict the products that will be reordered by customers during their next order. 
+Food and Beverage, Predict the products that will be reordered by a customer
